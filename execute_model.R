@@ -1,13 +1,13 @@
 library(data.table)
 library(ggplot2)
 
-source('VIVD/Universal_Constants.R')
-source('VIVD/System_Constants.R')
-# source('VIVD/Compound_Constants.R')
-source('VIVD/Initializations.R')
-source('VIVD/Partitioning.R')
+source('src/Universal_Constants.R')
+source('src/System_Constants.R')
+# source('src/Compound_Constants.R')
+source('src/Initializations.R')
+source('src/Partitioning.R')
 
-cpds <- readxl::read_xlsx('VIVD/20221120_Compounds.xlsx')
+cpds <- readxl::read_xlsx('./20221120_Compounds.xlsx')
 
 results <- data.table()
 
