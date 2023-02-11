@@ -20,8 +20,10 @@ Experimental data have been provided by Dimitrijevic et al., 2022 in order to
 evaluate the performance of the prediction model, please refer to file
 20221120_Compounds. The generated data set by the prediction model has been
 summarized in the file 2023-01-29_Output VIVD including different time points.
+Correlation between experimental and prediction derived data is shown in figure
+2022-01-29_Predictions (VIVD) vs. Experiment (Dimitrijevic et al., 2022).
 
-The described model is divided in the below presented main sections:
+In general, the described model is divided in the below presented main sections:
 
 Universal Constants:
 This R Script contains generic, universal values, e.g. the universal gas 
