@@ -13,7 +13,7 @@ al., 2019. In the current version, the model is valid for neutral substances.
 The model was further validated with published data from Armitage et al., 2014.
 The validation is presented in the following documents:
 
-20211205_Summary on model validation (Armitage et al., 2014)
+20211205_Summary on model validation (Armitage et al., 2014) and
 20220312_Summary of model validation
 
 Experimental data have been provided by Dimitrijevic et al., 2022 in order to 
