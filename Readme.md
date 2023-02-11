@@ -11,6 +11,14 @@ distribution of test substances within an in vitro system is presented in
 line with the equations and model published mass balance model by Fisher et 
 al., 2019. In the current version, the model is valid for neutral substances.
 The model was further validated with published data from Armitage et al., 2014.
+The validation is presented in the following documents:
+
+20211205_Summary on model validation (Armitage et al., 2014)
+20220312_Summary of model validation
+
+Experimental data have been provided by Dimitrijevic et al., 2022 in order to 
+evaluate the performance of the prediction model, please refer to file
+20221120_Compounds
 
 The described model is divided in the below presented main sections:
 
@@ -59,3 +67,4 @@ Ref 5: Rodgers et al., 2005, DOI: 10.1002/jps.20322.
 Ref 6: Rodgers and Rowland, 2006; DOI: DOI:10.1002/jps.20502.      
 Ref 7: Trapp et al., 2008, DOI: 10.1007/s00249-008-0338-4.
 Ref 8: Glunde et al., 2003; DOI: 10.1016/s1476-5586(03)80037-4.
+Ref 9: Dimitrijevic et al., 2022; DOI: 10.1021/acs.chemrestox.2c00128.
