@@ -49,7 +49,7 @@ output file with the results is generated.
 
 Furthermore, several parameters have been included from different 
 publications. In the R script files, following abbreviations refer to the 
-corresponding reference:
+corresponding references:
 
 Ref 1: Fisher et al., 2019, DOI: 10.1016/j.tiv.2018.12.017.
 Ref 2: Armitage et al., 2014, DOI: 10.1021/es501955g.
