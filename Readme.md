@@ -18,7 +18,8 @@ The validation is presented in the following documents:
 
 Experimental data have been provided by Dimitrijevic et al., 2022 in order to 
 evaluate the performance of the prediction model, please refer to file
-20221120_Compounds
+20221120_Compounds. The generated data set by the prediction model has been
+summarized in the file 2023-01-29_Output VIVD including different time points.
 
 The described model is divided in the below presented main sections:
 
